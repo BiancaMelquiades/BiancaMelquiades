@@ -31,17 +31,6 @@ Sou uma desenvolvedora Full Stack e ciêntista de dados, em busca constande por 
 Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados sobre o mundo da programação. Fique à vontade para explorar! 🚀</p></div><br>
 <br></br>
 
-<!-- Título - Estudando -->
-<h3 align='center'>Atualmente estou estudando:</h3>
-
-<!-- Ícones Estudando -->
-<div align='center'style="display: inline_block"><br>
-  <img align='center'alt="Bia-Python" loading="lazy" height="25" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align='center'alt="Bia-Dados" loading="lazy" height="25" src="https://img.shields.io/badge/-Ci%C3%AAncia%20de%20Dados-008272?style=for-the-badge&logo=datacamp&logoColor=white">
-  <img align='center'alt="Bia-SQL" loading="lazy" height="25" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-    <br><br>
-
 
 <!-- Título - Linguegens de programação -->
 <h3 align='center'>Linguagens de Programação</h3>
@@ -63,6 +52,18 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BiancaMelquiades&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Bianca Melquiades github stats" /> <br>
   <br></br>
 
+
+<!-- Título - Estudando -->
+<h3 align='center'>Atualmente estou estudando:</h3>
+
+<!-- Ícones Estudando -->
+<div align='center'style="display: inline_block"><br>
+  <img align='center'alt="Bia-Python" loading="lazy" height="25" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align='center'alt="Bia-Dados" loading="lazy" height="25" src="https://img.shields.io/badge/-Ci%C3%AAncia%20de%20Dados-008272?style=for-the-badge&logo=datacamp&logoColor=white">
+  <img align='center'alt="Bia-SQL" loading="lazy" height="25" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+    <br><br>
+    
  
 <!-- Título - Tecnologias e Ferramentas -->
 <h3 align='center'>Tecnologias e Ferramentas</h3>
