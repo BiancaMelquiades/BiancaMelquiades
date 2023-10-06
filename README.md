@@ -1,8 +1,8 @@
 
 <!-- Título principal -->
-<div ><h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Ooi!+Sou+a+Bianca!+;Desenvolvedora+FullStack+;Cientista+de+Dados+" alt="Typing SVG" /></a> </h1></div>
+<div align='center'><h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF69B4&width=435&lines=Ooi!+Sou+a+Bianca!+;Desenvolvedora+FullStack+;Cientista+de+Dados+" alt="Typing SVG" /></a> </h1></div>
 
-<!-- Foto Octocat -->
+<!-- Foto Octo-cat ->
 <div align="center">
     <img width="250" title="lofi study" src="https://github.com/BiancaMelquiades/BiancaMelquiades/blob/main/octocat-1696612266108.png"/>
 </div><br>
@@ -15,10 +15,8 @@ Sou uma desenvolvedora Full Stack e ciêntista de dados, em busca constande por 
 - Me formando em Processos Gerenciais
 - 📧 E-mail: biancamelquiadesbia@gmail.com
 - 📱 WhatsApp: (11) 95244-5358
-<br>
 
 <!-- LinkedIn e Vídeo de apresentação -->
-<br>
   <div align='center'>  
   <a href="https://www.linkedin.com/in/bianca-melquiades/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
