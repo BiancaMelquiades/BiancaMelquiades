@@ -1,17 +1,20 @@
-<div style="background: -webkit-linear-gradient(45deg, #FF69B4, #5F9EA0, #FF69B4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2em; text-align: center; animation: gradientAnimation 3s ease infinite;">
-    <h1 align="center">Hello folks! - 👋 Hi there! - I'm Bianca! - 👋</h1>
+<div style="background-color: #FF69B4; padding: 10px; text-align: center;">
+  <h1 style="font-size: 36px; animation: fadeInOut 2s linear infinite;">
+    Hi there! - I'm Bianca!
+  </h1>
 </div>
 
 <style>
-    @keyframes gradientAnimation {
-        0% {
-            background-position: 100% 0;
-        }
-        100% {
-            background-position: -100% 0;
-        }
+  @keyframes fadeInOut {
+    0%, 100% {
+      opacity: 0;
     }
+    50% {
+      opacity: 1;
+    }
+  }
 </style>
+
 
 <details>
 <summary>👩‍💻 About Me</summary>
@@ -34,12 +37,15 @@ This is my place where I share projects, studies, and learnings about the world 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaMelquiades&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+
 ### 🚀 Main Languages
+<div class="icon-container">
 - ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
 ### 🛠️ Technologies and Tools
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
