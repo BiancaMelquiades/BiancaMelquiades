@@ -1,4 +1,4 @@
-<div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Ooi!+Sou+a+Bianca!+;Desenvolvedora+FullStack+;Cientista+de+Dados+" alt="Typing SVG" /></a> </h2></div>
+<div align="center"><h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Ooi!+Sou+a+Bianca!+;Desenvolvedora+FullStack+;Cientista+de+Dados+" alt="Typing SVG" /></a> </h1></div>
 
 <div align="center">
     <img width="250" title="lofi study" src="https://github.com/adrianefelicio/adrianefelicio/blob/main/gifs/gif-.gif?raw=true"/>
@@ -13,7 +13,7 @@ Sou uma desenvolvedora Full Stack e ciêntista de dados, em busca constande por 
  
 Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados sobre o mundo da programação. Fique à vontade para explorar! 🚀</p></div><br>
 <br><br>
-<h2 align="center">💻 Principais Linguagens:<h2>  
+<div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Liguagens+de+Programação+" alt="Typing SVG" /></a> </h2></div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Bia-Java" loading="lazy" height="25" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Bia-JS" loading="lazy" height="25" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -28,7 +28,7 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BiancaMelquiades&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Bianca Melquiades github stats" /> 
  
 
-<h2 align="center">Tecnologias + Ferramentas:<h2>  
+<div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Tecnologias+e+Ferramentas+" alt="Typing SVG" /></a> </h2></div> 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Bia-SpingBoot" loading="lazy" height="25" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
   <img align="center" alt="Bia-Git" loading="lazy" height="25" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
