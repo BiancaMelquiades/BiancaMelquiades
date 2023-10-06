@@ -60,7 +60,7 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
 
 <div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Estudando+" alt="Typing SVG" /></a> </h2></div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Bia-Python" loading="lazy" height="25" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Bia-Python" loading="lazy" height="25" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Bia-Dados" loading="lazy" height="25" src="https://img.shields.io/badge/-Ci%C3%AAncia%20de%20Dados-008272?style=for-the-badge&logo=datacamp&logoColor=white">
   <img align="center" alt="Bia-SQL" loading="lazy" height="25" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
