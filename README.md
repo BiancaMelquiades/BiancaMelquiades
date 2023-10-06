@@ -2,33 +2,21 @@
     <h1 align="center">Ooi pessoal! Sou a Bianca! 👋 Hi guys! I'm Bianca! 👋</h1>
 </div>
 
-<style>
-    @keyframes gradientAnimation {
-        0% {
-            background-position: 100% 0;
-        }
-        100% {
-            background-position: -100% 0;
-        }
-    }
-</style>
-
 <details>
 <summary>👩‍💻 Sobre mim / About Me</summary>
 
-Sou estudante de Ciências da Computação com ênfase em desenvolvimento full stack e estou no último semestre da faculdade de Processos Gerenciais. Sou formada como desenvolvedora full stack e tenho experiência com ciência de dados e relatórios gerenciais.
-
-I'm a Computer Science student with a focus on full-stack development, currently in the final semester of my Process Management degree. I'm a full-stack developer with experience in data science and management reporting.
+Sou uma estudante de Ciência da Computação que curte muito desenvolvimento full stack. Tô quase terminando a faculdade de Processos Gerenciais, e já me considero uma desenvolvedora full stack com experiência em ciência de dados e relatórios gerenciais.
 
 </details>
 
 <br>
 
-👩‍💻 Bem-vindo ao meu perfil GitHub! 👩‍💻
+👩‍💻 E aí, pessoal! Bem-vindos ao meu cantinho no GitHub! 👩‍💻
 
-Atualmente, estou apaixonada por programação e estou em busca de conhecimento nas áreas de desenvolvimento web e tecnologias relacionadas.
+Eu sou completamente viciada em programação e ciência de dados.
 
-Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados sobre o mundo da programação. Fique à vontade para explorar! 🚀
+Este é o meu espaço, onde compartilho projetos, estudos e aprendizados sobre o mundo da programação. Sintam-se em casa para explorar! 🚀
+
 
 <div>
 <a href="https://github.com/BiancaMelquiades">
