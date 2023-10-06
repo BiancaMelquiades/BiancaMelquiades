@@ -1,17 +1,20 @@
 <div align="center"><h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Ooi!+Sou+a+Bianca!+;Desenvolvedora+FullStack+;Cientista+de+Dados+" alt="Typing SVG" /></a> </h1></div>
 
-<div align="center">
-    <img width="250" title="lofi study" src="https://github.com/BiancaMelquiades/BiancaMelquiades/blob/main/octocat-1696612266108.png"/>
-</div><br>
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img width="250" title="lofi study" src="https://github.com/BiancaMelquiades/BiancaMelquiades/blob/main/octocat-1696612266108.png"/>
+    </div>
+    <div style="flex: 2;">
+        <p>Sou uma desenvolvedora Full Stack e cientista de dados, em busca constante por desenvolvimento e aprendizado.</p>
+        <ul>
+            <li>Cursando Ciências da Computação com ênfase em desenvolvimento Full-Stack</li>
+            <li>Me formando em Processos Gerenciais</li>
+            <li>📧 E-mail: biancamelquiadesbia@gmail.com</li>
+            <li>📱 WhatsApp: (11) 95244-5358</li>
+        </ul>
+    </div>
+</div>
 
-<div><p> <br>
-Sou uma desenvolvedora Full Stack e ciêntista de dados, em busca constande por desenvolvimento e aprendizado.
-
-- Cursando Ciências da computação com ênfase em desenvolvimento Full-Stack
-- Me formando em Processos Gerenciais
-- 📧 E-mail: biancamelquiadesbia@gmail.com
-- 📱 WhatsApp: (11) 95244-5358
-<br>
 
 <br>
 
