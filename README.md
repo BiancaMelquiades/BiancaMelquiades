@@ -9,9 +9,9 @@
 
 <!-- Resumo Profissional -->
 <div><p> <br>
-Sou uma desenvolvedora Full Stack e cientista de dados, em busca constante por desenvolvimento e aprendizado.
+Sou uma desenvolvedora Full Stack e ciêntista de dados, em busca constande por desenvolvimento e aprendizado.
 
-- Cursando Ciências da Computação com ênfase em desenvolvimento Full-Stack
+- Cursando Ciências da computação com ênfase em desenvolvimento Full-Stack
 - Me formando em Processos Gerenciais
 - 📧 E-mail: biancamelquiadesbia@gmail.com
 - 📱 WhatsApp: (11) 95244-5358
@@ -30,7 +30,7 @@ Sou uma desenvolvedora Full Stack e cientista de dados, em busca constante por d
 Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados sobre o mundo da programação. Fique à vontade para explorar! 🚀</p></div><br>
 
 
-<!-- Título - Linguagens de programação -->
+<!-- Título - Linguegens de programação -->
 <h3 align='center'>Linguagens de Programação</h3>
 <br></br>
 
@@ -57,7 +57,7 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
 <!-- Ícones Estudando -->
 <div align='center'style="display: inline_block"><br>
   <img align='center'alt="Bia-Python" loading="lazy" height="25" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align='center'alt="Bia-Dados" loading="lazy" height="25" src="https://img.shields.io/badge/-Ciência%20de%20Dados-008272?style=for-the-badge&logo=datacamp&logoColor=white">
+  <img align='center'alt="Bia-Dados" loading="lazy" height="25" src="https://img.shields.io/badge/-Ci%C3%AAncia%20de%20Dados-008272?style=for-the-badge&logo=datacamp&logoColor=white">
   <img align='center'alt="Bia-SQL" loading="lazy" height="25" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
     <br><br>
@@ -71,4 +71,11 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
   <img align="center" alt="Bia-SpingBoot" loading="lazy" height="25" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
   <img align="center" alt="Bia-Git" loading="lazy" height="25" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Bia-GitHub" loading="lazy" height="25" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="Bia-React" loading="lazy" height="25" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logo
+  <img align="center" alt="Bia-React" loading="lazy" height="25" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img align="center" alt="Bia-Docker" height="25" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Bia-MySQL" loading="lazy" height="25" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Bia-Vercel" loading="lazy" height="25" src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img align="center" alt="Bia-PostgreSQL" height="25" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  </div>
+
+
