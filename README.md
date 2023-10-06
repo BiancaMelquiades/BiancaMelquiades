@@ -12,10 +12,12 @@ Sou uma desenvolvedora Full Stack e ciêntista de dados, em busca constande por 
 <br>
 
 <br>
-📧 E-mail: biancamelquiadesbia@gmail.com
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-melquiades/)
+- [![Vídeo de Apresentação](https://img.shields.io/badge/-V%C3%ADdeo%20de%20Apresenta%C3%A7%C3%A3o-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2pGfvkl20Tw)
+- 📧 E-mail: biancamelquiadesbia@gmail.com
 - 📱 WhatsApp: (11) 95244-5358
-    <div align='center'>  <a href="https://www.linkedin.com/in/bianca-melquiades/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
-    <div align='center'>  <a href="https://www.youtube.com/watch?v=2pGfvkl20Tw" target="_blank"><img src="https://img.shields.io/badge/-V%C3%ADdeo%20de%20Apresenta%C3%A7%C3%A3o-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a></div>
+<br></br>
  
 Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados sobre o mundo da programação. Fique à vontade para explorar! 🚀</p></div><br>
 <br><br>
