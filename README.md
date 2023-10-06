@@ -1,4 +1,4 @@
-<h1 style="color: #FF69B4; align="center">Hello folks! - 👋 Hi there! - I'm Bianca! - 👋</h1>
+The background color is `#ffffff` for light mode and `#000000` for dark mode.<h1 align="center">Hello folks! - 👋 Hi there! - I'm Bianca! - 👋</h1>
 
 <details>
 <summary>👩‍💻 About Me</summary>
