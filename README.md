@@ -1,6 +1,6 @@
 
 <!-- Título principal -->
-<div align="center"><h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Ooi!+Sou+a+Bianca!+;Desenvolvedora+FullStack+;Cientista+de+Dados+" alt="Typing SVG" /></a> </h1></div>
+<div ><h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Ooi!+Sou+a+Bianca!+;Desenvolvedora+FullStack+;Cientista+de+Dados+" alt="Typing SVG" /></a> </h1></div>
 
 <!-- Foto Octocat -->
 <div align="center">
@@ -33,7 +33,7 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
 
 
 <!-- Título - Linguegens de programação -->
-<div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Liguagens+de+Programação+" alt="Typing SVG" /></a> </h2></div><br>
+<div><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Liguagens+de+Programação+" alt="Typing SVG" /></a> </h2></div><br>
 <br></br>
 
 <!-- Quadro - Linguagens Principais -->
@@ -52,7 +52,7 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
 </div>
  
 <!-- Título - Tecnologias e Ferramentas -->
-<div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Tecnologias+e+Ferramentas+" alt="Typing SVG" /></a> </h2></div> 
+<div><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Tecnologias+e+Ferramentas+" alt="Typing SVG" /></a> </h2></div> 
 
 <!-- Ícones Tecnologias e Ferramentas -->
 <div align="center" style="display: inline_block">
@@ -67,7 +67,7 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
   </div>
 
 <!-- Título - Estudando -->
-<div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Estudando+" alt="Typing SVG" /></a> </h2></div>
+<div><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Estudando+" alt="Typing SVG" /></a> </h2></div>
 
 <!-- Ícones Estudando -->
 <div align="center" style="display: inline_block"><br>
