@@ -1,22 +1,24 @@
+
+<!-- Título principal -->
 <div align="center"><h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Ooi!+Sou+a+Bianca!+;Desenvolvedora+FullStack+;Cientista+de+Dados+" alt="Typing SVG" /></a> </h1></div>
 
-<div style="display: flex; align-items: center;">
+<!-- Foto Octocat -->
+<div align="center">
     <img width="250" title="lofi study" src="https://github.com/BiancaMelquiades/BiancaMelquiades/blob/main/octocat-1696612266108.png"/>
-    <div>
-        <p>Sou uma desenvolvedora Full Stack e cientista de dados, em busca constante por desenvolvimento e aprendizado.</p>
-        <ul>
-            <li>Cursando Ciências da Computação com ênfase em desenvolvimento Full-Stack</li>
-            <li>Me formando em Processos Gerenciais</li>
-            <li>📧 E-mail: biancamelquiadesbia@gmail.com</li>
-            <li>📱 WhatsApp: (11) 95244-5358</li>
-        </ul>
-    </div>
-</div>
+</div><br>
 
+<!-- Resumo Profissional -->
+<div><p> <br>
+Sou uma desenvolvedora Full Stack e ciêntista de dados, em busca constande por desenvolvimento e aprendizado.
 
-
+- Cursando Ciências da computação com ênfase em desenvolvimento Full-Stack
+- Me formando em Processos Gerenciais
+- 📧 E-mail: biancamelquiadesbia@gmail.com
+- 📱 WhatsApp: (11) 95244-5358
 <br>
 
+<!-- LinkedIn e Vídeo de apresentação -->
+<br>
   <div align='center'>  
   <a href="https://www.linkedin.com/in/bianca-melquiades/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -30,13 +32,17 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
 <br></br>
 
 
+<!-- Título - Linguegens de programação -->
+<div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Liguagens+de+Programação+" alt="Typing SVG" /></a> </h2></div><br>
+<br></br>
 
-<div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Liguagens+de+Programação+" alt="Typing SVG" /></a> </h2></div>
+<!-- Quadro - Linguagens Principais -->
 <div align="center">
-
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaMelquiades&layout=compact&langs_count=7&_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BiancaMelquiades&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Bianca Melquiades github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BiancaMelquiades&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Bianca Melquiades github stats" /> <br>
+  <br></br>
 
+<!-- Ícones linguagens principais -->
 <div align="center" style="display: inline_block">
   <img align="center" alt="Bia-Java" loading="lazy" height="25" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Bia-JS" loading="lazy" height="25" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -45,9 +51,10 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
   <img align="center" alt="Bia-CSS" height="25" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
  
- 
-
+<!-- Título - Tecnologias e Ferramentas -->
 <div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Tecnologias+e+Ferramentas+" alt="Typing SVG" /></a> </h2></div> 
+
+<!-- Ícones Tecnologias e Ferramentas -->
 <div align="center" style="display: inline_block">
   <img align="center" alt="Bia-SpingBoot" loading="lazy" height="25" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
   <img align="center" alt="Bia-Git" loading="lazy" height="25" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -59,8 +66,10 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
   <img align="center" alt="Bia-PostgreSQL" height="25" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   </div>
 
-
+<!-- Título - Estudando -->
 <div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Estudando+" alt="Typing SVG" /></a> </h2></div>
+
+<!-- Ícones Estudando -->
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Bia-Python" loading="lazy" height="25" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Bia-Dados" loading="lazy" height="25" src="https://img.shields.io/badge/-Ci%C3%AAncia%20de%20Dados-008272?style=for-the-badge&logo=datacamp&logoColor=white">
