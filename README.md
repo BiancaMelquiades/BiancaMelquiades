@@ -15,11 +15,11 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
 <br><br>
 <h2 align="center">💻 Principais Linguagens:<h2>  
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Bia-Java" loading="lazy" height="180em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Bia-JS" loading="lazy" height="180em" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Bia-TS" loading="lazy" height="180em" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Bia-HTML" loading="lazy" height="180em" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Bia-CSS" loading="lazy" height="180em" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Bia-Java" loading="lazy" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Bia-JS" loading="lazy" height="30" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Bia-TS" loading="lazy" height="30" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Bia-HTML" loading="lazy" height="30" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Bia-CSS" height="30" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
     <br><br>
 <div align="center">  
