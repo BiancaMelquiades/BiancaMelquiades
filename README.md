@@ -27,9 +27,9 @@ Sou uma desenvolvedora Full Stack e ciêntista de dados, em busca constande por 
   <img src="https://img.shields.io/badge/-Vídeo%20de%20Apresentação-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
   </div>
+  <br></br>
 
 Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados sobre o mundo da programação. Fique à vontade para explorar! 🚀</p></div><br>
-<br></br>
 
 
 <!-- Título - Linguegens de programação -->
@@ -63,7 +63,7 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
   <img align='center'alt="Bia-SQL" loading="lazy" height="25" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
     <br><br>
-    
+
  
 <!-- Título - Tecnologias e Ferramentas -->
 <h3 align='center'>Tecnologias e Ferramentas</h3>
