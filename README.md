@@ -1,19 +1,4 @@
-<div style="background-color: #FF69B4; padding: 10px; text-align: center;">
-  <h1 style="font-size: 36px; animation: fadeInOut 2s linear infinite;">
-    Hi there! - I'm Bianca!
-  </h1>
-</div>
-
-<style>
-  @keyframes fadeInOut {
-    0%, 100% {
-      opacity: 0;
-    }
-    50% {
-      opacity: 1;
-    }
-  }
-</style>
+<p style="color: #FF69B4;">**Hi there! - I'm Bianca!**</p>
 
 
 <details>
