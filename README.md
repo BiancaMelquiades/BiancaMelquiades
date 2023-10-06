@@ -24,9 +24,9 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
     <br><br>
 
 <div align="center">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaMelquiades&layout=compact&langs_count=7&_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaMelquiades&layout=compact&langs_count=7&_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BiancaMelquiades&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Bianca Melquiades github stats" /> 
-  />
+ 
 
 <h2 align="center">💻 Principais Linguagens:<h2>  
 <div align="center" style="display: inline_block"><br>
@@ -35,7 +35,7 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
   <img align="center" alt="Bia-TS" loading="lazy" height="30" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Bia-HTML" loading="lazy" height="30" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Bia-CSS" height="30" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  
+
 <br>
     <div align='center'>  <a href="https://www.linkedin.com/in/bianca-melquiades/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
     
