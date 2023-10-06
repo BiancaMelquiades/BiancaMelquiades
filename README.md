@@ -26,7 +26,7 @@ Sou uma desenvolvedora Full Stack e ciêntista de dados, em busca constande por 
 
 Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados sobre o mundo da programação. Fique à vontade para explorar! 🚀</p></div>
 
-##
+
 
 <div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Liguagens+de+Programação+" alt="Typing SVG" /></a> </h2></div>
 <div align="center">
@@ -42,7 +42,7 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
   <img align="center" alt="Bia-CSS" height="25" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
  
- ##
+ 
 
 <div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Tecnologias+e+Ferramentas+" alt="Typing SVG" /></a> </h2></div> 
 <div align="center" style="display: inline_block">
@@ -56,7 +56,6 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
   <img align="center" alt="Bia-PostgreSQL" height="25" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   </div>
 
-  ##
 
 <div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Estudando+" alt="Typing SVG" /></a> </h2></div>
 <div align="center" style="display: inline_block"><br>
