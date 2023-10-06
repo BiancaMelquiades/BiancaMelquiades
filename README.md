@@ -33,14 +33,8 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
 
 
 <!-- Título - Linguegens de programação -->
-<div><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Liguagens+de+Programação+" alt="Typing SVG" /></a> </h2></div><br>
+<h2 align='center'>Linguagens de Programação</h2>
 <br></br>
-
-<!-- Quadro - Linguagens Principais -->
-<div align="center">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaMelquiades&layout=compact&langs_count=7&_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BiancaMelquiades&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Bianca Melquiades github stats" /> <br>
-  <br></br>
 
 <!-- Ícones linguagens principais -->
 <div align="center" style="display: inline_block">
@@ -50,9 +44,17 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
   <img align="center" alt="Bia-HTML" loading="lazy" height="25" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Bia-CSS" height="25" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
+<br></br>
+
+<!-- Quadro - Linguagens Principais -->
+<div align="center">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaMelquiades&layout=compact&langs_count=7&_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BiancaMelquiades&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Bianca Melquiades github stats" /> <br>
+  <br></br>
+
  
 <!-- Título - Tecnologias e Ferramentas -->
-<div><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Tecnologias+e+Ferramentas+" alt="Typing SVG" /></a> </h2></div> 
+<h2 align='center'>Tecnologias e Ferramentas</h2>
 
 <!-- Ícones Tecnologias e Ferramentas -->
 <div align="center" style="display: inline_block">
@@ -67,7 +69,7 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
   </div>
 
 <!-- Título - Estudando -->
-<div><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Estudando+" alt="Typing SVG" /></a> </h2></div>
+<h2 align='center'>Estudando Agora</h2>
 
 <!-- Ícones Estudando -->
 <div align="center" style="display: inline_block"><br>
