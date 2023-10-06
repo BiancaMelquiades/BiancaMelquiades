@@ -32,13 +32,13 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
 <br></br>
 
 <!-- Título - Estudando -->
-<h5>Atualmente estou estudando:</h5>
+<h3>Atualmente estou estudando:</h3>
 
 <!-- Ícones Estudando -->
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Bia-Python" loading="lazy" height="25" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Bia-Dados" loading="lazy" height="25" src="https://img.shields.io/badge/-Ci%C3%AAncia%20de%20Dados-008272?style=for-the-badge&logo=datacamp&logoColor=white">
-  <img align="center" alt="Bia-SQL" loading="lazy" height="25" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<div style="display: inline_block"><br>
+  <img alt="Bia-Python" loading="lazy" height="25" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Bia-Dados" loading="lazy" height="25" src="https://img.shields.io/badge/-Ci%C3%AAncia%20de%20Dados-008272?style=for-the-badge&logo=datacamp&logoColor=white">
+  <img alt="Bia-SQL" loading="lazy" height="25" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
     <br><br>
 
