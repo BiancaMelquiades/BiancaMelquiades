@@ -24,11 +24,12 @@ Sou uma desenvolvedora Full Stack e ciêntista de dados, em busca constande por 
   </a>
   </div>
 
-Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados sobre o mundo da programação. Fique à vontade para explorar! 🚀</p></div>
+Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados sobre o mundo da programação. Fique à vontade para explorar! 🚀</p></div><br>
+<br></br>
 
 
-<h2 style="color:#FF69B4;">Linguagens de Programação</h2>
 
+<div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Liguagens+de+Programação+" alt="Typing SVG" /></a> </h2></div>
 <div align="center">
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaMelquiades&layout=compact&langs_count=7&_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
