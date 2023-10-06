@@ -15,14 +15,20 @@ Sou uma desenvolvedora Full Stack e ciêntista de dados, em busca constande por 
 
 <br>
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-melquiades/)
-  [![Vídeo de Apresentação](https://img.shields.io/badge/-Vídeo%20de%20Apresentação-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2pGfvkl20Tw)
-</div>
-<br></br>
+  <div align='center'>  
+  <a href="https://www.linkedin.com/in/bianca-melquiades/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.youtube.com/watch?v=2pGfvkl20Tw" target="_blank">
+  <img src="https://img.shields.io/badge/-Vídeo%20de%20Apresentação-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  </div>
+
+ ##
  
 Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados sobre o mundo da programação. Fique à vontade para explorar! 🚀</p></div><br>
 <br><br>
+
 <div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Liguagens+de+Programação+" alt="Typing SVG" /></a> </h2></div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Bia-Java" loading="lazy" height="25" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
