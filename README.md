@@ -1,4 +1,4 @@
-<div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Hello!+I'm+Bianca!+;I'm+a+FullStack+developer+and+data+scientist!+" alt="Typing SVG" /></a> </h2></div>
+<div align="center"><h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&width=435&lines=Ooi!+Sou+a+Bianca!+;Desenvolvedora+FullStack+;Cientista+de+Dados+" alt="Typing SVG" /></a> </h2></div>
 
 <div align="center">
     <img width="250" title="lofi study" src="https://github.com/adrianefelicio/adrianefelicio/blob/main/gifs/gif-.gif?raw=true"/>
@@ -28,13 +28,18 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BiancaMelquiades&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Bianca Melquiades github stats" /> 
  
 
-<h2 align="center">💻 Principais Linguagens:<h2>  
+<h2 align="center">Tecnologias + Ferramentas:<h2>  
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Bia-Java" loading="lazy" height="30" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Bia-JS" loading="lazy" height="30" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Bia-TS" loading="lazy" height="30" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Bia-HTML" loading="lazy" height="30" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Bia-CSS" height="30" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Bia-SpingBoot" loading="lazy" height="30" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img align="center" alt="Bia-Git" loading="lazy" height="30" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Bia-GitHub" loading="lazy" height="30" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="Bia-React" loading="lazy" height="30" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img align="center" alt="Bia-Docker" height="30" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Bia-MySQL" loading="lazy" height="30" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Bia-Vercel" loading="lazy" height="30" src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img align="center" alt="Bia-PostgreSQL" height="30" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  </div>
+    <br><br>
 
 <br>
     <div align='center'>  <a href="https://www.linkedin.com/in/bianca-melquiades/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
