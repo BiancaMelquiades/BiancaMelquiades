@@ -15,7 +15,7 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
 <br><br>
 <h2 align="center">💻 Principais Linguagens:<h2>  
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Bia-Java" loading="lazy" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Bia-Java" loading="lazy" height="30" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Bia-JS" loading="lazy" height="30" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Bia-TS" loading="lazy" height="30" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Bia-HTML" loading="lazy" height="30" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
