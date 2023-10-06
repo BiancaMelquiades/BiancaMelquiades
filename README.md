@@ -31,6 +31,17 @@ Sou uma desenvolvedora Full Stack e ciêntista de dados, em busca constande por 
 Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados sobre o mundo da programação. Fique à vontade para explorar! 🚀</p></div><br>
 <br></br>
 
+<!-- Título - Estudando -->
+<h5>Atualmente estou estudando:</h5>
+
+<!-- Ícones Estudando -->
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Bia-Python" loading="lazy" height="25" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Bia-Dados" loading="lazy" height="25" src="https://img.shields.io/badge/-Ci%C3%AAncia%20de%20Dados-008272?style=for-the-badge&logo=datacamp&logoColor=white">
+  <img align="center" alt="Bia-SQL" loading="lazy" height="25" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+    <br><br>
+
 
 <!-- Título - Linguegens de programação -->
 <h2 align='center'>Linguagens de Programação</h2>
@@ -68,13 +79,4 @@ Seja bem-vindo ao meu espaço, onde compartilho projetos, estudos e aprendizados
   <img align="center" alt="Bia-PostgreSQL" height="25" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   </div>
 
-<!-- Título - Estudando -->
-<h2 align='center'>Estudando Agora</h2>
 
-<!-- Ícones Estudando -->
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Bia-Python" loading="lazy" height="25" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Bia-Dados" loading="lazy" height="25" src="https://img.shields.io/badge/-Ci%C3%AAncia%20de%20Dados-008272?style=for-the-badge&logo=datacamp&logoColor=white">
-  <img align="center" alt="Bia-SQL" loading="lazy" height="25" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-    <br><br>
